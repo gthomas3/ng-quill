@@ -15,7 +15,7 @@
     "Gruntfile.js"
   ],
   "dependencies": {
-    "quill": "1.1.5",
+    "quill": "https://github.com/quilljs/quill/releases/download/v1.2.4/quill.tar.gz",
     "angular": "^1.5.8"
   },
   "keywords": [
